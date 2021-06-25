@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Graph/Graph.iml" filepath="$PROJECT_DIR$/src/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear/Linear.iml" filepath="$PROJECT_DIR$/Linear/Linear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/LinearList/LinearList.iml" filepath="$PROJECT_DIR$/src/LinearList/LinearList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Sort/Sort.iml" filepath="$PROJECT_DIR$/src/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/SymbolTable/SymbolTable.iml" filepath="$PROJECT_DIR$/src/SymbolTable/SymbolTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/BinaryTree/Tree.iml" filepath="$PROJECT_DIR$/src/BinaryTree/Tree.iml" />
+    </modules>
+  </component>
+</project>
